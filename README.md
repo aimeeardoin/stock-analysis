@@ -8,6 +8,8 @@
 Refactored Code.png
 
 By structuring the code differently, the runtime decreased dramatically, running nearly 4 times as fast for this dataset. See screenshots below:
+https://github.com/aimeeardoin/stock-analysis/blob/main/2017%20runtime.png
+
 
 
 Summary: In a summary statement, address the following questions.
